@@ -1,0 +1,16 @@
+きのこBOTソース利用規約
+1.利用するにあたって悪用しない
+2.自分のものと主張しない
+3.コードではなくGithubのURLを渡してください。(https://github.com/kinoko2k/kinokobot)
+4.開発者やきのこBOTに対して暴言・誹謗中傷しない
+5.Twitter宣伝は絶対にしてください(これを使うにあたっての義務的な)
+6.勝手にForkはして大丈夫ですが、2と4のルールは守ってください。
+7.Forkして、そのあとにPullなどしてほしい場合は、TwitterのDMに声をかけてください。
+
+===
+名前:[k!][k/]きのこBOT
+開発者:きのこ(@kinoko1216),Lloyd(@lloyd_6137),chaahan
+サーバー管理者:きのこ(@kinoko1216)→Piyo_chan(none)
+===
+
+© KinokoBot Project.
